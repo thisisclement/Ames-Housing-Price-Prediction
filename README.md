@@ -72,7 +72,7 @@ Moreover all three neighbourhoods are very close to elementary, middle and high 
 
 However, it is interesting to note that the land contour that is hilly is valued more than the other land contour features. It is perhaps has a good privacy rating among home dwellers in Ames.
 
-At number five, Overall Quality of the property takes the spot and is no suprise that it is one of the top predictors in property prices, though the coefficient is much lower than being in the top three neighbourhoods.
+At number five, Overall Quality of the property takes the spot and is no surprise that it is one of the top predictors in property prices, though the coefficient is much lower than being in the top three neighbourhoods.
 
 
 | Feature       | Coefficient  | Model |
